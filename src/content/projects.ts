@@ -192,8 +192,12 @@ export const projects: Project[] = [
       es: "Traducir una identidad de marca ya existente a un sistema formal",
       en: "Translating an existing brand identity into a formal system",
     },
-    cover: "/images/projects/sistema-luminico/plano-pie.jpg",
+    cover: "/images/projects/sistema-luminico/hero-montelumbre.jpg",
     gallery: [
+      {
+        src: "/images/projects/sistema-luminico/hero-montelumbre.jpg",
+        caption: { es: "Montelumbre — lámpara de velador", en: "Montelumbre — bedside lamp" },
+      },
       {
         src: "/images/projects/sistema-luminico/plano-pie.jpg",
         caption: { es: "Lámpara de pie — Estancia", en: "Floor lamp — Estancia" },

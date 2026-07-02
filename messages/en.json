@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "home": "Home"
+  },
+  "home": {
+    "heroTitle": "One method. Different materials.",
+    "heroSubtitle": "Industrial designer (UP) specialized in product development — with a focus on visual communication, UX/UI and AI-augmented process.",
+    "heroCta": "View work",
+    "featuredLabel": "Selected work",
+    "featuredCta": "View all projects",
+    "statementTitle": "One method, different materials",
+    "statementBody": "Trained in industrial design, with a method that extends naturally into branding, UX/UI and visual communication — because the design problem is always the same: understand a need, iterate, materialize it. Only the material changes.",
+    "splitRecruiterTitle": "Looking to add talent to your team?",
+    "splitRecruiterBody": "CV, case studies and working process, in one place.",
+    "splitRecruiterCta": "View CV and background",
+    "splitFreelanceTitle": "Have a project to develop?",
+    "splitFreelanceBody": "Product, branding or visualization — available for freelance.",
+    "splitFreelanceCta": "Let's talk"
+  },
+  "work": {
+    "title": "Work",
+    "intro": "Selected case studies. Each one solves a different problem, with the same method.",
+    "explorationsTitle": "Explorations and process",
+    "explorationsIntro": "Shorter pieces — technical exercises, academic awards and working processes that don't warrant a full case study, but add to the method.",
+    "viewCase": "View case study",
+    "backToWork": "Back to work",
+    "prevProject": "Previous project",
+    "nextProject": "Next project",
+    "tools": "Tools",
+    "viewOnBehance": "View the full project on Behance"
+  },
+  "about": {
+    "title": "About",
+    "bioHeading": "Biography",
+    "bio": "I'm an industrial designer trained at Universidad de Palermo, but I think about problems before tools. My work almost always starts in the same place —a concrete need, an object that doesn't quite work— and from there I use whatever it takes: sketches, parametric geometry, a hand-welded prototype, a brand palette, a render that has to convince before the object exists.\n\nI come from real manufacturing: I welded knives in a forge in La Pampa before drawing my first render in Rhino. That mix —workshop and screen— is what makes me distrust solutions that look good but can't be produced. I care as much about the strength of a steel chassis as the visual coherence of a product family.\n\nIn recent years I've added artificial intelligence as one more exploration tool: to test formal variants faster, to try directions before committing hours of modeling — without it replacing the judgment that decides which of those directions is worth pursuing. The common thread in everything I do isn't the tool. It's the method.",
+    "bioClosing": "Alongside freelance work, I run two of my own ventures: Lucien Luz, my lighting studio focused on eco-design, and @federaco3d, my 3D print production and correction service. Both come from the same logic that runs through the rest of my work: design doesn't end at the idea, it ends when the object exists and works.",
+    "processHeading": "Process",
+    "processBody": "Sketch, iterate in 3D, prototype, correct against the real object. AI comes in at the formal-exploration stage —to multiply directions before committing hours of modeling— but the selection criteria and final refinement remain manual work.",
+    "toolsHeading": "Tools",
+    "researchHeading": "Research",
+    "researchTitle": "Innovation in 3D printing for mass production",
+    "researchSubtitle": "Graduation project — evaluating the Bambu Lab case and its effect on efficiency, cost and sustainability",
+    "researchBody": "My graduation project analyzes how 3D printing moves from prototyping into serial production, focusing on sustainability, decentralized production and the new role of the industrial designer facing artificial intelligence. It includes qualitative interviews with design studios and 3D printing users, plus an original quantitative survey.",
+    "awardsHeading": "Awards",
+    "venturesHeading": "Ventures",
+    "venturesBody": "Alongside freelance work, I design and run two ventures of my own.",
+    "cvDownload": "Download CV (PDF)"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Have an open role or a project to develop? Get in touch.",
+    "recruiterTitle": "Job opportunity",
+    "recruiterBody": "CV and case studies above. I reply within 48 hours.",
+    "freelanceTitle": "Freelance project",
+    "freelanceBody": "Tell me what it's about and what stage it's at.",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "location": "Buenos Aires, Argentina"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}

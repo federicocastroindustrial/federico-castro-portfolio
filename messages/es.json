@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "work": "Proyectos",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "home": "Inicio"
+  },
+  "home": {
+    "heroTitle": "Un método. Distintos materiales.",
+    "heroSubtitle": "Diseñador industrial (UP) especializado en desarrollo de producto — con foco en comunicación visual, UX/UI y procesos potenciados por IA.",
+    "heroCta": "Ver proyectos",
+    "featuredLabel": "Selección de proyectos",
+    "featuredCta": "Ver todos los proyectos",
+    "statementTitle": "Un método, distintos materiales",
+    "statementBody": "Diseño industrial de formación, con un método que se extiende naturalmente a branding, UX/UI y comunicación visual — porque el problema de diseño es siempre el mismo: entender una necesidad, iterar, materializarla. Solo cambia el material con el que se resuelve.",
+    "splitRecruiterTitle": "¿Buscás sumar talento a tu equipo?",
+    "splitRecruiterBody": "CV, casos de estudio y proceso de trabajo, en un solo lugar.",
+    "splitRecruiterCta": "Ver CV y trayectoria",
+    "splitFreelanceTitle": "¿Tenés un proyecto para desarrollar?",
+    "splitFreelanceBody": "Producto, branding o visualización — disponible para freelance.",
+    "splitFreelanceCta": "Hablemos"
+  },
+  "work": {
+    "title": "Proyectos",
+    "intro": "Casos de estudio seleccionados. Cada uno resuelve un problema distinto, con el mismo método.",
+    "explorationsTitle": "Exploraciones y proceso",
+    "explorationsIntro": "Piezas más breves — ejercicios técnicos, premios académicos y procesos de trabajo que no ameritan un caso de estudio completo, pero suman al método.",
+    "viewCase": "Ver caso de estudio",
+    "backToWork": "Volver a proyectos",
+    "prevProject": "Proyecto anterior",
+    "nextProject": "Siguiente proyecto",
+    "tools": "Herramientas",
+    "viewOnBehance": "Ver el proyecto completo en Behance"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bioHeading": "Biografía",
+    "bio": "Soy diseñador industrial formado en la Universidad de Palermo, pero pienso los problemas antes que las herramientas. Mi trabajo casi siempre arranca en el mismo lugar —una necesidad concreta, un objeto que no termina de funcionar— y desde ahí despliego lo que haga falta: bocetos, geometría paramétrica, un prototipo soldado a mano, una paleta de marca, un render que tiene que convencer antes de que el objeto exista.\n\nVengo de la fabricación real: soldé cuchillos en una forja de La Pampa antes de dibujar mi primer render en Rhino. Esa mezcla —taller y pantalla— es la que me hace desconfiar de las soluciones que se ven bien pero no se pueden producir. Me interesa tanto la resistencia de un chasis de acero como la coherencia visual de una familia de producto.\n\nEn los últimos años sumé la inteligencia artificial como una herramienta más de exploración: para probar variantes formales más rápido, para testear direcciones antes de comprometer horas de modelado — sin que reemplace el criterio que decide cuál de esas direcciones vale la pena. El denominador común de todo lo que hago no es la herramienta. Es el método.",
+    "bioClosing": "Además de mi trabajo freelance, sostengo dos proyectos propios: Lucien Luz, mi estudio de iluminación con foco en eco-diseño, y @federaco3d, mi servicio de impresión y corrección de modelados 3D. Los dos nacen de la misma lógica que atraviesa el resto de mi trabajo: diseñar no termina en la idea, termina cuando el objeto existe y funciona.",
+    "processHeading": "Proceso",
+    "processBody": "Bocetar, iterar en 3D, prototipar, corregir contra el objeto real. La IA entra en la etapa de exploración formal —para multiplicar direcciones antes de comprometer horas de modelado— pero el criterio de selección y el refinamiento final siguen siendo trabajo manual.",
+    "toolsHeading": "Herramientas",
+    "researchHeading": "Investigación",
+    "researchTitle": "Innovación en impresión 3D para la producción masiva",
+    "researchSubtitle": "Proyecto de graduación — evaluación del caso Bambu Lab y su efecto en eficiencia, costos y sustentabilidad",
+    "researchBody": "Mi proyecto de graduación analiza cómo la impresión 3D pasa de la fabricación de prototipos a la producción en serie, con foco en sustentabilidad, producción descentralizada y el nuevo rol del diseñador industrial frente a la inteligencia artificial. Incluye entrevistas cualitativas a estudios de diseño y usuarios de impresión 3D, y una encuesta cuantitativa propia.",
+    "awardsHeading": "Reconocimientos",
+    "venturesHeading": "Emprendimientos propios",
+    "venturesBody": "Además del trabajo freelance, diseño y sostengo dos proyectos propios.",
+    "cvDownload": "Descargar CV (PDF)"
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "¿Tenés una búsqueda laboral abierta o un proyecto para desarrollar? Escribime.",
+    "recruiterTitle": "Oportunidad laboral",
+    "recruiterBody": "CV y casos de estudio disponibles arriba. Respondo en menos de 48hs.",
+    "freelanceTitle": "Proyecto freelance",
+    "freelanceBody": "Contame de qué se trata y en qué etapa está.",
+    "emailLabel": "Email",
+    "locationLabel": "Ubicación",
+    "location": "Buenos Aires, Argentina"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  }
+}
